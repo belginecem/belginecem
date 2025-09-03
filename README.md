@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats-l8ud64dvc-ecems-projects-b7f7b1b2.vercel.app/api?username=belginecem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-l8ud64dvc-ecems-projects-b7f7b1b2.vercel.app/api?username=belginecem&count_private=true&show_icons=true)](https://github.com/belginecem/github-readme-stats)
