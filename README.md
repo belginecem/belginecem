@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=belginecem&color=blueviolet)
-
 [![Ecem's GitHub stats](https://github-readme-stats-ecems-projects-b7f7b1b2.vercel.app/api?username=belginecem&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/belginecem/github-readme-stats)
 
 ### 🔧 Skills & Tools
